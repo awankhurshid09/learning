@@ -8,4 +8,4 @@ Some Text
 ## HEADING_3
 
 Some text
-Some Text
+Some text
